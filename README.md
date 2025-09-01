@@ -26,5 +26,4 @@ Originally created as a static layout, the project has now been **upgraded** to 
   - Animations & Transitions
 
 ---
-
-## 📂 Project Structure
+## 📌 Live Link: 
